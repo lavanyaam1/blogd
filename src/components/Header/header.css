@@ -1,0 +1,26 @@
+.header-container{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 12vh;
+    padding-top: 5px;
+}
+.title-containre{
+    padding-left: 100px;
+    padding-top: 10px;
+    float: left;
+    line-height: 2px;
+}
+.nav-container{
+    float: right;
+}
+.nav-container ul{
+    display: flex;
+}
+.nav-container ul li{
+    list-style: none;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    font-size: small;
+}

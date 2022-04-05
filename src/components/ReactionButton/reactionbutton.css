@@ -1,0 +1,24 @@
+.reaction-container{
+    display: flex;
+}
+.btn-clap{
+    border: none;
+    background-color: transparent;
+    display: flex;
+}
+.btn-like{
+    border: none;
+    background-color: transparent;
+}
+.btn-clap img{
+    width: 20px;
+    cursor: pointer;
+}
+.btn-like img{
+    width: 20px;
+    cursor: pointer;
+    padding-left: 150px;
+}
+.count{
+    padding-left: 2px;
+}
